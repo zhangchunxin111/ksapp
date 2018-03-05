@@ -1,0 +1,57 @@
+/*
+* @Author: asus
+* @Date:   2018-03-04 23:10:52
+* @Last Modified by:   asus
+* @Last Modified time: 2018-03-04 23:24:15
+*/
+.title {
+    display: block;
+    width: 100%;
+    height: 0.84rem;
+    text-align: center;
+    line-height: 0.84rem;
+    font-size: 0.3rem;
+    color: #000;
+}
+
+.titleer {
+    display: block;
+    width: 100%;
+    height: 0.84rem;
+    text-align: center;
+    line-height: 0.84rem;
+    font-size: 0.24rem;
+    color: #666;
+}
+.header {
+    width: 100vw;
+    box-sizing: border-box;
+    padding: 0 5vw;
+    text-align: center;
+    height: 7vh;
+    line-height: 7vh;
+    font-size: 0.30rem;
+    background: #5bb8ff;
+    color: #fff;
+    display: flex;
+    justify-content: space-between
+}
+.fanhui img {
+    margin-top: 0.24rem;
+    width: 0.4rem;
+    height: 0.29rem;
+}
+.header span {
+    font-size: 0.34rem;
+}
+
+.tk {
+    width: 11vw;
+    height: 4vh;
+    border: 1px solid #fff;
+    line-height: 4vh;
+    text-align: center;
+    float: right;
+    margin-top: 1.5vh;
+    border-radius: 3px;
+}

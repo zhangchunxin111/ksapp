@@ -1,0 +1,134 @@
+/*
+* @Author: asus
+* @Date:   2018-03-05 00:47:26
+* @Last Modified by:   asus
+* @Last Modified time: 2018-03-05 01:02:45
+*/
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none
+}
+.timu {
+    width: 100%;
+    height: auto;
+    padding: 0.2rem 0.2rem;
+    overflow: hidden;
+}
+.fh_left {
+    width: 0.4rem;
+    height: 0.3rem;
+    display: block;
+    float: left;
+    margin-top: 0.24rem;
+    background: url(../img/index/fanhui.png) no-repeat center center;
+    background-size: 100%;
+}
+.moshi {
+    width: 3.06rem;
+    height: auto;
+    float: left;
+    margin: 0.1rem 0 0.1rem 1.56rem;
+}
+
+.moshi a {
+    display: block;
+    float: left;
+    padding: 0.16rem 0.2rem;
+}
+.moshi a {
+    display: block;
+    float: left;
+    padding: 0.16rem 0.2rem;
+}
+
+.ziti {
+    display: block;
+    float: right;
+    width: 0.4rem;
+    height: 0.34rem;
+    margin-top: 0.22rem;
+    background: url(../img/ziti.png) no-repeat center center;
+    background-size: 100%;
+}
+.timu_con {
+    width: 100%;
+    height: auto;
+    padding: 0 0.2rem;
+}
+.timu_con_title {
+    margin-top: 0.6rem;
+}
+
+.timu_con_title p {
+    float: left;
+    line-height: 0.44rem;
+    font-size: 0.34rem;
+    color: #3d3d3d;
+    margin-left: 0.3rem;
+}
+
+p {
+    margin: 0 0 10px;
+}
+.timu_con_title span {
+    display: block;
+    float: left;
+    padding: 0.08rem;
+    border: 1px solid #20acf9;
+    border-radius: 0.05rem;
+    color: #1cacf9;
+    font-size: 0.24rem;
+}
+
+element.style {
+    line-height: 0.6rem;
+}
+.timu_con_title p {
+    float: left;
+    line-height: 0.44rem;
+    font-size: 0.34rem;
+    color: #3d3d3d;
+    margin-left: 0.3rem;
+}
+p {
+    margin: 0 0 10px;
+}
+.timu_con_yi {
+    margin-top: 0.5rem;
+    width: 100%;
+}
+.queren {
+    margin-top: 0.3rem;
+    width: 100%;
+    padding: 0 0.3rem;
+}
+.timu_con_yi span {
+    display: block;
+    float: left;
+    margin-left: 0.2rem;
+    text-align: center;
+    line-height: 0.54rem;
+    width: 0.54rem;
+    height: 0.54rem;
+    border-radius: 50%;
+    border: 1px solid #dddddd;
+}
+.timu_con_yi h4 {
+    margin: 0 0.3rem;
+    display: block;
+    float: left;
+    font-size: 0.35rem;
+    line-height: 0.54rem;
+}
+.queren a {
+    display: block;
+    width: 100%;
+    height: 0.8rem;
+   
+    text-align: center;
+    line-height: 0.8rem;
+    color: #fff;
+    border-radius: 0.5rem;
+    background: #5BB8FF
+}

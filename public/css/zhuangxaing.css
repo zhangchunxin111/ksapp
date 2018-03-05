@@ -1,0 +1,113 @@
+/*
+* @Author: asus
+* @Date:   2018-03-05 00:28:43
+* @Last Modified by:   asus
+* @Last Modified time: 2018-03-05 01:01:02
+*/
+*{
+	list-style: none
+}
+.header {
+    width: 100vw;
+    box-sizing: border-box;
+    padding: 0 5vw;
+    text-align: center;
+    height: 7vh;
+    line-height: 7vh;
+    font-size: 0.30rem;
+    background: #5bb8ff;
+    color: #fff;
+}
+a {
+    text-decoration: none;
+}
+.header i {
+    float: left;
+    font-size: 0.32rem;
+}
+.header span {
+    font-size: 0.34rem;
+}
+.yd {
+    width: 100vw;
+    box-sizing: border-box;
+    padding: 0 5vw;
+    height: 14vh;
+    background: #5BB8FF;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.yuan {
+    width: 20vw;
+    height: 20vw;
+    border-radius: 50%;
+    border: 8px solid #8dcdff;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    align-items: center
+}
+.yuan span, .yuan i {
+    color: #FBE074;
+    display: block;
+    font-size: 0.28rem;
+}
+.yuan span, .yuan i {
+    color: #FBE074;
+    display: block;
+    font-size: 0.28rem;
+}
+.dadui, .yd1 {
+    font-size: 0.28rem;
+    color: #fff;
+    letter-spacing: 1px;
+}
+.yd1 .ydsl, .daduisl {
+    color: #fbe074;
+    font-size: 0.32rem;
+}
+.dadui {
+    margin-right: 10vw;
+}
+.dadui, .yd1 {
+    font-size: 0.28rem;
+    color: #fff;
+    letter-spacing: 1px;
+}
+.list {
+    width: 100vw;
+    margin: 0 auto;
+}
+.list li a {
+    background: #fff;
+    border-bottom: 2px solid #f3f3f3;
+    height: 8vh;
+    color: #000;
+}
+
+.list li a {
+    display: flex;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0 5vw;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+    color: #545454;
+    font-size: 0.32rem;
+}
+.iconfont {
+    font-family: 'iconfont';
+    font-size: 0.6rem;
+}
+@font-face {
+  font-family: 'iconfont';  /* project id 506504 */
+  src: url('http://at.alicdn.com/t/font_506504_5tszfmese3t8olxr.eot');
+  src: url('http://at.alicdn.com/t/font_506504_5tszfmese3t8olxr.eot?#iefix') format('embedded-opentype'),
+  url('http://at.alicdn.com/t/font_506504_5tszfmese3t8olxr.woff') format('woff'),
+  url('http://at.alicdn.com/t/font_506504_5tszfmese3t8olxr.ttf') format('truetype'),
+  url('http://at.alicdn.com/t/font_506504_5tszfmese3t8olxr.svg#iconfont') format('svg');
+}

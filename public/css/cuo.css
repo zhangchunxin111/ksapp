@@ -1,0 +1,151 @@
+/*
+* @Author: asus
+* @Date:   2018-03-05 00:15:48
+* @Last Modified by:   asus
+* @Last Modified time: 2018-03-05 00:25:32
+*/
+
+.fanhui {
+    display: block;
+    width: 100%;
+    height: 0.84rem;
+}
+.fanhui img {
+    margin-top: 0.24rem;
+    width: 0.4rem;
+    height: 0.29rem;
+}
+.title {
+    display: block;
+    width: 100%;
+    height: 0.84rem;
+    text-align: center;
+    line-height: 0.84rem;
+    font-size: 0.3rem;
+    color: #000;
+}
+.nav_sousuo .shezhi a {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.row {
+    margin: auto;
+}
+
+.cuoti_box {
+    width: 100%;
+    height: auto;
+}
+.cuoti_top {
+    width: 100%;
+    height: auto;
+}
+.cuoti_bottom {
+    width: 100%;
+    height: auto;
+    margin-top: 0.36rem;
+}
+.cuoti {
+    width: 2.56rem;
+    height: 2.56rem;
+    margin: 0.5rem auto 0 auto;
+    border-radius: 50%;
+    border: 0.16rem solid #4bbcfb;
+}
+.cuoti h5 {
+    color: #fff;
+    margin: 0;
+    font-size: 0.24rem;
+    text-align: center;
+    margin-top: 0.36rem;
+}
+.cuoti h6 {
+    color: #fff;
+    margin: 0;
+    font-size: 0.2rem;
+    margin-top: 0.4rem;
+    text-align: center;
+}
+.cuoti h6 span {
+    font-size: 0.52rem;
+}
+.cuoti_btn {
+    width: 6.02rem;
+    margin: 0 auto;
+}
+.cuoti_bottom p {
+    font-size: 0.24rem;
+    color: #fff;
+    text-align: center;
+    margin-top: 0.3rem;
+}
+p {
+    margin: 0 0 10px;
+}
+.jiexi {
+    width: 100%;
+    height: 0.88rem;
+}
+.jiexibox {
+    width: 5rem;
+    height: 0.88rem;
+    margin: 0 auto;
+}
+.jiexibox span {
+    display: block;
+    float: left;
+    width: 1rem;
+    margin-top: 0.44rem;
+    height: 0.01rem;
+    background: #15bcfb;
+}
+.nav_sousuo .shezhi a img {
+    float: right;
+    width: 0.36rem;
+    height: 0.36rem;
+    margin-top: 0.22rem;
+}
+.jiexibox h4 {
+    margin: 0;
+    font-size: 0.3rem;
+    color: #15bcfb;
+    line-height: 0.88rem;
+    float: left;
+    padding: 0 0.3rem;
+}
+.dingdan {
+    width: 100%;
+    height: auto;
+    padding: 0 0.3rem 0 0.4rem;
+}
+.dingdan_yi {
+    width: 100%;
+    height: 0.98rem;
+    background: #fff;
+}
+.dingdan_yi .icon_01 {
+    width: 0.34rem;
+    height: 0.34rem;
+    display: block;
+    float: left;
+    margin-top: 0.32rem;
+    background: url(../img/dingdan.png) no-repeat center center;
+    background-size: 100% 100%;
+}
+.dingdan_yi .you {
+    width: 0.16rem;
+    height: 0.28rem;
+    background: url(../img/index/xuan.png) no-repeat center center;
+    background-size: 100% 100%;
+    display: block;
+    float: right;
+    margin-top: 0.36rem;
+}
+.dingdan_yi h4 {
+    margin: 0;
+    line-height: 0.98rem;
+    float: left;
+    font-size: 0.3rem;
+    margin-left: 0.3rem;
+}
